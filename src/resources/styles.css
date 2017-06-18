@@ -1,0 +1,14 @@
+.greenBtn {
+    -fx-background-color: #388E3C;
+    -fx-text-fill: #fff;
+}
+
+.blueBtn {
+    -fx-background-color: #1976D2;
+    -fx-text-fill: #fff;
+}
+
+.redBtn {
+    -fx-background-color: #c62828;
+    -fx-text-fill: #fff;
+}
